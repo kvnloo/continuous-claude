@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## [v0.6.1] - 2026-10-04
+
+### What's Changed
+
+- :bookmark: Release version v0.24.9 (c9edd80)
+- :bug: Count all PR comments and fail closed on lookup errors (a8ba58f)
+- :arrow_up: Update checkout to v7.0.1 (b9d8ccf)
+
+**Full Changelog**: https://github.com/kvnloo/continuous-claude/compare/v0.6.0...v0.6.1
+
+
 ## [v0.24.9] - 2026-09-27
 
 ### What's Changed
